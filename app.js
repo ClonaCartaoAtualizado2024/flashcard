@@ -21,7 +21,7 @@ let respostaEstaVisivel = false;
     respostaEstaVisivel = !respostaEstaVisivel 
     cartao.classList.toggle('active', respostaEstaVisivel)
   }
-  cartao.addEventListener('clink' viraCartao)
+  cartao.addEventListener('clink', viraCartao)
   
   container.appendChild(cartao)
   }
