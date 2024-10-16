@@ -4,12 +4,12 @@ criaCartao (
     'resposta'
 )
 criaCartao(
-    'a'
-    'b'
+    'a',
+    'b',
     'c'
 )
 criaCartao(
-    'd'
-    'e'
+    'd',
+    'e',
     'f'
 )
